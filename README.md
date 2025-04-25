@@ -25,6 +25,7 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 Name : Elamaran S E
+
 Reg.no ; 212222230036
 ```
 import pandas as pd
@@ -238,7 +239,7 @@ print("Selected Features:")
 print(selected_features)
 ```
 ![388517967-dca07307-d7fc-4546-8614-fadbeb133ca0](https://github.com/user-attachments/assets/7246f00d-bae5-4402-8344-1c3365e8c6c2)
-```
+
 
 
 # RESULT:

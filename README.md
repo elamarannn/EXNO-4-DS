@@ -36,11 +36,12 @@ df
 ```
 ![388438307-a66652f9-c881-4a86-9d60-f92810b15c79](https://github.com/user-attachments/assets/b0a85a45-14b4-4912-a65f-d76381fc4705)
 
-
+```
 df.head()
+```
 ![388438564-da322bb8-5154-4a88-956d-6b2ddc277842](https://github.com/user-attachments/assets/ae8feb2d-807c-43a4-b2ff-e4d69dd7ef3f)
 
-
+```
 df.dropna()
 ```
 ![388500297-be732e5d-f3d4-43d3-98cd-e3880852c0f4](https://github.com/user-attachments/assets/af208bf5-46fc-4f5f-91a6-f3ad15f2b0e9)
